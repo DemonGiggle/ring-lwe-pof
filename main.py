@@ -164,6 +164,6 @@ if VERBOSE:
     print(dec_bin == m_bin)
 
 if (dec_bin == m_bin).all():
-    print("Successfully")
+    print("Success")
 else:
     print("Fail!!")
